@@ -1,4 +1,4 @@
-# Powered By BikashHalder Or Aditya Halder IF You Fresh Any Problem To Contact The BgtRobot Owner
+# Powered By I_LOVE_YOU_MY_HEARTBEET Or ALice family IF You Fresh Any Problem To Contact The BgtRobot Owner
 
 import sys
 from pyrogram import Client
@@ -7,7 +7,7 @@ from ..logging import LOGGER
 
 
 
-class BikashXBot(Client):
+class Alice(Client):
     def __init__(self):
         LOGGER(__name__).info(f"Starting Bot...")
         super().__init__(
