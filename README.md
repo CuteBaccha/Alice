@@ -43,4 +43,4 @@
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [I_LOVE_YOU_MY_HEARTBEET](https://t.me/I_LOVE_YOU_MY_HEARTBEET) & [ID_SELLER00](https://t.me/ID_SELLER00)
+## 🥀 Powered By [Ansh](https://t.me/I_LOVE_YOU_MY_HEARTBEET) & [ansh](https://t.me/ID_SELLER00)
