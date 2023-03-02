@@ -1,4 +1,4 @@
-# bikash halder
+# ALice family
 
 HELP_1 = """✅**<u>Admin Commands:</u>**
 
