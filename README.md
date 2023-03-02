@@ -16,9 +16,9 @@
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/ISHQ00_I)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/XD_CUTETY)
 
 ## YouTube 📺
 
@@ -28,14 +28,14 @@
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Alice](https://telegra.ph/file/5081730e52145378eb3b8.jpg)](https://t.me/ID_SELLER00)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [Alice](https://t.me/ID_SELLER00)
 
 ## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+✅ Alice ansh Thanks For Fixed All Error Or Lovely Support 💕
 
 ### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
 
@@ -43,4 +43,4 @@
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [I_LOVE_YOU_MY_HEARTBEET](https://t.me/I_LOVE_YOU_MY_HEARTBEET) & [ID_SELLER00](https://t.me/ID_SELLER00)
