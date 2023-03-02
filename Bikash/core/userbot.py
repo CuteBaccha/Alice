@@ -1,4 +1,4 @@
-# Powered By BikashHalder Or Aditya Halder IF You Fresh Any Problem To Contact The BgtRobot Owner
+# Powered By I_LOVE_YOU_MY_HEARTBEET Or ALice family IF You Fresh Any Problem To Contact The AliceRobot Owner
 
 import sys
 
@@ -66,11 +66,11 @@ class Userbot(Client):
             else:
                 self.one.name = get_me.first_name
             LOGGER(__name__).info(
-                f"🌷 𝐁𝐠𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.one.name}"
+                f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.one.name}"
             )
             try:
                 await self.one.send_message(
-                    config.LOG_GROUP_ID, f"🌷 𝐁𝐠𝐭 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 1 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 🌺.\n\n✅ 𝐍𝐚𝐦𝐞 :**{self.one.name}\n👑 𝐈𝐝 : {self.one.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.one.username}"
+                    config.LOG_GROUP_ID, f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 1 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 🌺.\n\n✅ 𝐍𝐚𝐦𝐞 :**{self.one.name}\n👑 𝐈𝐝 : {self.one.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.one.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -97,7 +97,7 @@ class Userbot(Client):
                 self.two.name = get_me.first_name
             try:
                 await self.two.send_message(
-                    config.LOG_GROUP_ID, f"🌷 𝐁𝐠𝐭 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 2 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.\n\n✅ 𝐍𝐚𝐦𝐞 :{self.two.name}\n👑 𝐈𝐝 : {self.two.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.two.username}"
+                    config.LOG_GROUP_ID, f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 2 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.\n\n✅ 𝐍𝐚𝐦𝐞 :{self.two.name}\n👑 𝐈𝐝 : {self.two.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.two.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -105,7 +105,7 @@ class Userbot(Client):
                 )
                 sys.exit()
             LOGGER(__name__).info(
-                f"🌷 𝐁𝐠𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 2 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.two.name}"
+                f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 2 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.two.name}"
             )
         if config.STRING3:
             await self.three.start()
@@ -127,7 +127,7 @@ class Userbot(Client):
                 self.three.name = get_me.first_name
             try:
                 await self.three.send_message(
-                    config.LOG_GROUP_ID, f"🌷 𝐁𝐠𝐭 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 3 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.\n\n✅ 𝐍𝐚𝐦𝐞 :{self.three.name}\n👑 𝐈𝐝 : {self.three.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.three.username}"
+                    config.LOG_GROUP_ID, f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 3 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.\n\n✅ 𝐍𝐚𝐦𝐞 :{self.three.name}\n👑 𝐈𝐝 : {self.three.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.three.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -135,7 +135,7 @@ class Userbot(Client):
                 )
                 sys.exit()
             LOGGER(__name__).info(
-                f"🌷 𝐁𝐠𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 3 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.three.name}"
+                f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 3 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.three.name}"
             )
         if config.STRING4:
             await self.four.start()
@@ -157,7 +157,7 @@ class Userbot(Client):
                 self.four.name = get_me.first_name
             try:
                 await self.four.send_message(
-                    config.LOG_GROUP_ID, f"🌷 𝐁𝐠𝐭 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 4 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.\n\n✅ 𝐍𝐚𝐦𝐞 :{self.four.name}\n👑 𝐈𝐝 : {self.four.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.four.username}"
+                    config.LOG_GROUP_ID, f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 4 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.\n\n✅ 𝐍𝐚𝐦𝐞 :{self.four.name}\n👑 𝐈𝐝 : {self.four.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.four.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -165,7 +165,7 @@ class Userbot(Client):
                 )
                 sys.exit()
             LOGGER(__name__).info(
-                f"🌷 𝐁𝐠𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 4 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.four.name}"
+                f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 4 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.four.name}"
             )
         if config.STRING5:
             await self.five.start()
@@ -187,7 +187,7 @@ class Userbot(Client):
                 self.five.name = get_me.first_name
             try:
                 await self.five.send_message(
-                    config.LOG_GROUP_ID, f"🌷 𝐁𝐠𝐭 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 5 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.\n\n✅ 𝐍𝐚𝐦𝐞 :{self.five.name}\n👑 𝐈𝐝:** {self.five.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.five.username}"
+                    config.LOG_GROUP_ID, f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐑𝐨𝐛𝐨𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 5 𝐒𝐭𝐚𝐫𝐭𝐞𝐝.\n\n✅ 𝐍𝐚𝐦𝐞 :{self.five.name}\n👑 𝐈𝐝:** {self.five.id}\n🌷 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞 : @{self.five.username}"
                 )
             except:
                 LOGGER(__name__).error(
@@ -195,5 +195,5 @@ class Userbot(Client):
                 )
                 sys.exit()
             LOGGER(__name__).info(
-                f"🌷 𝐁𝐠𝐭 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 5 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.five.name}"
+                f"🌷 𝐀𝐥𝐢𝐜𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 5 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐬 {self.five.name}"
             )
