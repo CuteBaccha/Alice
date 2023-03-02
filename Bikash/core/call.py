@@ -1,4 +1,4 @@
-# Powered By BikashHalder Or Aditya Halder IF You Fresh Any Problem To Contact The BgtRobot Owner
+# Powered By I_LOVE_YOU_MY_HEARTBEET Or ALice family IF You Fresh Any Problem To Contact The AliceRobot Owner
 
 import asyncio
 from datetime import datetime, timedelta
@@ -283,7 +283,7 @@ class Call(PyTgCalls):
                 )
         except AlreadyJoinedError:
             raise AssistantErr(
-                "💥 𝐁𝐠𝐭 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 𝐈𝐬 🌷\n\n🌸 𝐀𝐥𝐫𝐞𝐚𝐝𝐲 𝐉𝐨𝐢𝐧 𝐓𝐡𝐞 𝐕𝐜 ✅\n\n🌷 𝐁𝐠𝐭 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 𝐒𝐞𝐫𝐯𝐞𝐫 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 𝐓𝐡𝐚𝐭 🌷\n\n💖 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐈𝐬 𝐀𝐥𝐫𝐞𝐚𝐝𝐲 𝐈𝐧 𝐓𝐡𝐞 𝐕𝐜, 𝐈𝐟 𝐘𝐨𝐮 𝐆𝐞𝐭 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 🙂\n\n👉 𝐓𝐡𝐞𝐧 𝐑𝐞𝐬𝐭𝐚𝐫𝐭 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐀𝐧𝐝 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 ♻️."
+                "💥𝐀𝐥𝐢𝐜𝐞 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 𝐈𝐬 🌷\n\n🌸 𝐀𝐥𝐫𝐞𝐚𝐝𝐲 𝐉𝐨𝐢𝐧 𝐓𝐡𝐞 𝐕𝐜 ✅\n\n🌷 𝐀𝐥𝐢𝐜𝐞 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 𝐒𝐞𝐫𝐯𝐞𝐫 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 𝐓𝐡𝐚𝐭 🌷\n\n💖 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐈𝐬 𝐀𝐥𝐫𝐞𝐚𝐝𝐲 𝐈𝐧 𝐓𝐡𝐞 𝐕𝐜, 𝐈𝐟 𝐘𝐨𝐮 𝐆𝐞𝐭 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 🙂\n\n👉 𝐓𝐡𝐞𝐧 𝐑𝐞𝐬𝐭𝐚𝐫𝐭 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐀𝐧𝐝 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧 ♻️."
             )
         except TelegramServerError:
             raise AssistantErr(
@@ -605,5 +605,4 @@ class Call(PyTgCalls):
                     return
                 autoend[chat_id] = {}
 
-
-Bikashh = Call()
+Alice = Call()
