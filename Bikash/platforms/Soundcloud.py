@@ -1,11 +1,11 @@
-# Powered By BikashHalder Or Aditya Halder IF You Fresh Any Problem To Contact The BgtRobot Owner
+# Powered By I_LOVE_YOU_MY_HEARTBEET Or ALice family IF You Fresh Any Problem To Contact The AliceRobot Owner
 
 import re
 from os import path
 
 from yt_dlp import YoutubeDL
 
-from Bikash.utils.formatters import seconds_to_min
+from Alice.utils.formatters import seconds_to_min
 
 
 class SoundAPI:
