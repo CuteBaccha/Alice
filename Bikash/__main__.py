@@ -1,6 +1,6 @@
 #
-# Copyright (C) 2022 by Bikash Halder 
-# Bikash gadgets Tech 
+# Copyright (C) 2022 by ALice family
+# Alice gadgets Tech 
 # All rights reserved.
 
 import asyncio
@@ -10,12 +10,12 @@ import sys
 from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
-from Bikash import config
-from Bikash.config import BANNED_USERS
-from Bikash import LOGGER, app, userbot
-from Bikash.core.call import Bikashh
+from Alice import config
+from Alice.config import BANNED_USERS
+from Alice import LOGGER, app, userbot
+from Alice.core.call import Bikashh
 from plugins import ALL_MODULES
-from Bikash.utils.database import get_banned_users, get_gbanned
+from Alice.utils.database import get_banned_users, get_gbanned
 
 loop = asyncio.get_event_loop()
 
@@ -61,7 +61,7 @@ async def init():
             "http://docs.evostream.com/sample_content/assets/sintel1m720p.mp4"
         )
     except NoActiveGroupCall:
-        LOGGER("BikashMusic").error(
+        LOGGER("Alice").error(
             "[ERROR] - \n\nPlease turn on your Logger Group's Voice Call. Make sure you never close/end voice call in your log group"
         )
         sys.exit()
@@ -74,4 +74,4 @@ async def init():
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("BikashMusic").info("Stopping Bikashh Music Bot! GoodBye")
+    LOGGER("Alice").info("Stopping Alice Music Bot! Bnd kyu kiya chutiya GoodBye")
