@@ -1,4 +1,4 @@
-# Powered By BikashHalder Or Aditya Halder IF You Fresh Any Problem To Contact The BgtRobot Owner
+# Powered By I_LOVE_YOU_MY_HEARTBEET Or ALice family IF You Fresh Any Problem To Contact The Alice Owner
 
 import os
 import sys
