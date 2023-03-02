@@ -1,4 +1,4 @@
-# Bikash Aditya Player Bot Variables
+# Alice Bot Variables
 
 
 ## Mandatory Vars
@@ -75,8 +75,7 @@
 
 ## Custom Repo Vars
 
-- If you plan to use Aditya Player Bot with your own customized or modified code.
-
+- If you plan to use Alice with your own customized or modified 
 1. `UPSTREAM_REPO` : Your Upstream Repo URL or Forked Repo.
 2. `UPSTREAM_BRANCH` : Default Branch of your Upstream Repo URL or Forked Repo. 
 3. `GIT_TOKEN` : Your GIT TOKEN if your upstream repo is private
@@ -86,8 +85,8 @@
 
 ## Images/Thumbnail Vars
 
-- You can change images which are used in Aditya Player Bot.
-- You can generate telegaph links from [BikashgadgetsTech](http://t.me/BikashGadgetsTech) and use it here.
+- You can change images which are used in Alice.
+- You can generate telegaph links from [ISHQ00_I](https://t.me/ISHQ00_I) and use it here.
 
 1. `START_IMG_URL` : Image which comes on /start command in private messages of bot.
 2. `PING_IMG_URL` : Image which comes on /ping command of bot.
