@@ -1,4 +1,4 @@
-# Powered By BikashHalder Or Aditya Halder IF You Fresh Any Problem To Contact The BgtRobot Owner
+# Powered By I_LOVE_YOU_MY_HEARTBEET Or ALice family IF You Fresh Any Problem To Contact The BgtRobot Owner
 
 from motor.motor_asyncio import AsyncIOMotorClient as _mongo_client_
 from pymongo import MongoClient
@@ -13,7 +13,7 @@ TEMP_MONGODB = "mongodb+srv://bikashhalder123:bikash143@cluster0.u6kvanf.mongodb
 
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning(
-        "🌺 𝐍𝐨 MONGO DB URL 𝐅𝐨𝐮𝐧𝐝..❌ 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐖𝐢𝐥𝐥 𝐖𝐨𝐫𝐤 𝐎𝐧 @BikashHalder MONGO 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 🇮🇳"
+        "🌺 𝐍𝐨 MONGO DB URL 𝐅𝐨𝐮𝐧𝐝..❌ 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐖𝐢𝐥𝐥 𝐖𝐨𝐫𝐤 𝐎𝐧 @ID_SELLER00 MONGO 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 🇮🇳"
     )
     temp_client = Client(
         "BikashX",
@@ -32,5 +32,5 @@ if config.MONGO_DB_URI is None:
 else:
     _mongo_async_ = _mongo_client_(config.MONGO_DB_URI)
     _mongo_sync_ = MongoClient(config.MONGO_DB_URI)
-    mongodb = _mongo_async_.Bikashh
-    pymongodb = _mongo_sync_.Bikashh
+    mongodb = _mongo_async_.Alice
+    pymongodb = _mongo_sync_.Alice
